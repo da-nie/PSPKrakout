@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Krakout" />
+		<Option makefile_is_custom="1" />
+		<Option pch_mode="2" />
+		<Option compiler="psp_compiler" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin\Release\Krakout.exe" prefix_auto="1" extension_auto="0" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="psp_compiler" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+				<MakeCommands>
+					<Build command="$make" />
+					<CompileFile command="" />
+					<Clean command="$make clean" />
+					<DistClean command="" />
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="basis.cpp" />
+		<Unit filename="basis.h" />
+		<Unit filename="cballmap.cpp" />
+		<Unit filename="cballmap.h" />
+		<Unit filename="cblockmap.cpp" />
+		<Unit filename="cblockmap.h" />
+		<Unit filename="ccharacter1map.cpp" />
+		<Unit filename="ccharacter1map.h" />
+		<Unit filename="ccharacter2map.cpp" />
+		<Unit filename="ccharacter2map.h" />
+		<Unit filename="ccharacter3map.cpp" />
+		<Unit filename="ccharacter3map.h" />
+		<Unit filename="ccharacter4map.cpp" />
+		<Unit filename="ccharacter4map.h" />
+		<Unit filename="ccharacter5map.cpp" />
+		<Unit filename="ccharacter5map.h" />
+		<Unit filename="ccharacter6map.cpp" />
+		<Unit filename="ccharacter6map.h" />
+		<Unit filename="ccharacter7map.cpp" />
+		<Unit filename="ccharacter7map.h" />
+		<Unit filename="ccharacter8map.cpp" />
+		<Unit filename="ccharacter8map.h" />
+		<Unit filename="ccharacter9map.cpp" />
+		<Unit filename="ccharacter9map.h" />
+		<Unit filename="ccharactermap.cpp" />
+		<Unit filename="ccharactermap.h" />
+		<Unit filename="cfont.cpp" />
+		<Unit filename="cfont.h" />
+		<Unit filename="cgame.cpp" />
+		<Unit filename="cgame.h" />
+		<Unit filename="cmenu.cpp" />
+		<Unit filename="cmenu.h" />
+		<Unit filename="cmissilemap.cpp" />
+		<Unit filename="cmissilemap.h" />
+		<Unit filename="cobject.cpp" />
+		<Unit filename="cobject.h" />
+		<Unit filename="cpaddle.cpp" />
+		<Unit filename="cpaddle.h" />
+		<Unit filename="csound.cpp" />
+		<Unit filename="csound.h" />
+		<Unit filename="csoundcontrol.cpp" />
+		<Unit filename="csoundcontrol.h" />
+		<Unit filename="csprite.cpp" />
+		<Unit filename="csprite.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="video.cpp" />
+		<Unit filename="video.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="basis.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="689" topLine="9" />
+	</File>
+	<File name="basis.h" open="0" top="0" tabpos="5">
+		<Cursor position="1032" topLine="0" />
+	</File>
+	<File name="cballmap.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="10015" topLine="286" />
+	</File>
+	<File name="cballmap.h" open="0" top="0" tabpos="0">
+		<Cursor position="1505" topLine="12" />
+	</File>
+	<File name="cblockmap.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="3128" topLine="90" />
+	</File>
+	<File name="cblockmap.h" open="0" top="0" tabpos="0">
+		<Cursor position="742" topLine="5" />
+	</File>
+	<File name="ccharacter1map.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="6494" topLine="190" />
+	</File>
+	<File name="ccharacter1map.h" open="0" top="0" tabpos="0">
+		<Cursor position="1521" topLine="0" />
+	</File>
+	<File name="ccharacter2map.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="9194" topLine="292" />
+	</File>
+	<File name="ccharacter2map.h" open="0" top="0" tabpos="0">
+		<Cursor position="823" topLine="7" />
+	</File>
+	<File name="ccharacter3map.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="8214" topLine="254" />
+	</File>
+	<File name="ccharacter3map.h" open="0" top="0" tabpos="0">
+		<Cursor position="486" topLine="0" />
+	</File>
+	<File name="ccharacter4map.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="6805" topLine="210" />
+	</File>
+	<File name="ccharacter4map.h" open="0" top="0" tabpos="0">
+		<Cursor position="565" topLine="0" />
+	</File>
+	<File name="ccharacter5map.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="7817" topLine="235" />
+	</File>
+	<File name="ccharacter5map.h" open="0" top="0" tabpos="0">
+		<Cursor position="492" topLine="0" />
+	</File>
+	<File name="ccharacter6map.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="7051" topLine="215" />
+	</File>
+	<File name="ccharacter6map.h" open="0" top="0" tabpos="0">
+		<Cursor position="486" topLine="0" />
+	</File>
+	<File name="ccharacter7map.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="9144" topLine="241" />
+	</File>
+	<File name="ccharacter7map.h" open="0" top="0" tabpos="0">
+		<Cursor position="1194" topLine="7" />
+	</File>
+	<File name="ccharacter8map.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="7171" topLine="212" />
+	</File>
+	<File name="ccharacter8map.h" open="0" top="0" tabpos="0">
+		<Cursor position="486" topLine="0" />
+	</File>
+	<File name="ccharacter9map.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="5826" topLine="203" />
+	</File>
+	<File name="ccharacter9map.h" open="0" top="0" tabpos="0">
+		<Cursor position="486" topLine="0" />
+	</File>
+	<File name="ccharactermap.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="2304" topLine="70" />
+	</File>
+	<File name="ccharactermap.h" open="0" top="0" tabpos="0">
+		<Cursor position="300" topLine="0" />
+	</File>
+	<File name="cfont.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="98" topLine="0" />
+	</File>
+	<File name="cfont.h" open="0" top="0" tabpos="0">
+		<Cursor position="464" topLine="0" />
+	</File>
+	<File name="cgame.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="8034" topLine="207" />
+	</File>
+	<File name="cgame.h" open="0" top="0" tabpos="0">
+		<Cursor position="613" topLine="0" />
+	</File>
+	<File name="cmenu.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="12061" topLine="396" />
+	</File>
+	<File name="cmenu.h" open="0" top="0" tabpos="1">
+		<Cursor position="559" topLine="0" />
+	</File>
+	<File name="cmissilemap.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="416" topLine="4" />
+	</File>
+	<File name="cmissilemap.h" open="0" top="0" tabpos="0">
+		<Cursor position="964" topLine="13" />
+	</File>
+	<File name="cobject.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="979" topLine="6" />
+	</File>
+	<File name="cobject.h" open="0" top="0" tabpos="2">
+		<Cursor position="720" topLine="0" />
+	</File>
+	<File name="cpaddle.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="642" topLine="93" />
+	</File>
+	<File name="cpaddle.h" open="0" top="0" tabpos="0">
+		<Cursor position="1741" topLine="27" />
+	</File>
+	<File name="csound.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="243" topLine="0" />
+	</File>
+	<File name="csound.h" open="0" top="0" tabpos="0">
+		<Cursor position="2323" topLine="8" />
+	</File>
+	<File name="csoundcontrol.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="136" topLine="0" />
+	</File>
+	<File name="csoundcontrol.h" open="0" top="0" tabpos="4">
+		<Cursor position="468" topLine="0" />
+	</File>
+	<File name="csprite.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="10974" topLine="313" />
+	</File>
+	<File name="csprite.h" open="0" top="0" tabpos="3">
+		<Cursor position="253" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="2083" topLine="39" />
+	</File>
+	<File name="video.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1499" topLine="27" />
+	</File>
+	<File name="video.h" open="0" top="0" tabpos="0">
+		<Cursor position="8" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
